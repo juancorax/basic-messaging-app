@@ -343,6 +343,7 @@ DEPENDENCIES
   bootsnap
   brakeman
   bulma-rails (~> 1.0)
+  dartsass-rails (~> 0.5.1)
   debug
   devise (~> 4.9)
   importmap-rails
